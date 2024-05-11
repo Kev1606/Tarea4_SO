@@ -1,8 +1,12 @@
+# Zip files
+*.zip
+
 # Prerequisites
 *.d
 
 # Object files
 *.o
+*.out
 *.ko
 *.obj
 *.elf
